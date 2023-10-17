@@ -1,4 +1,4 @@
-![Oasys](../assets/banner.png)
+![Oasys](/assets/banner.png)
 
 We help teams build and deploy LLM applications at scale with our managed vector database platform. Our platform makes it easy to store, manage, and search vector embeddings, which are the numerical representations of data objects that LLMs use to understand and generate text.
 
