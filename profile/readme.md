@@ -1,6 +1,6 @@
 ![Oasys](/assets/banner.png)
 
-**Oasys is currently in beta with one-click managed vector database using Chroma and we are looking for early adopters.**
+**Oasys is currently in beta stage and soon will launch a managed vector database using Chroma. We are looking for early adopters to help us improve our platform.**
 
 Developing and deploying LLM applications can be challenging and time-consuming because they require well-integrated components such as data source integrations, vector stores, performance monitoring, and completion caching. During development, these components can take away resources and effort that could otherwise be allocated to developing the core app features.
 
