@@ -1,5 +1,17 @@
 ![Oasys](/assets/banner.png)
 
-We help teams build and deploy LLM applications at scale with our managed vector database platform. Our platform makes it easy to store, manage, and search vector embeddings, which are the numerical representations of data objects that LLMs use to understand and generate text.
+### Oasys is currently in beta with one-click managed vector database using Chroma and we are looking for early adopters.
 
-We use the open-source Chroma vector database, which is fast and easy to use, making it ideal for LLM applications. Chroma is one of the fastest vector databases available, with support for sub-millisecond nearest neighbor search. It is also easy to use, with a simple REST API and a Python client library.
+# Problems
+
+Developing and deploying LLM applications can be challenging and time-consuming because they require well-integrated components such as data source integrations, vector stores, performance monitoring, and completion caching. During development, these components can take away resources and effort that could otherwise be allocated to developing the core app features.
+
+# Solution
+
+Oasys aims to provide a unified platform that streamlines the development and deployment of LLM applications. The platform will integrate all of the necessary components, including data source integrations, vector stores, performance monitoring, and completion caching, into a single, easy-to-use interface. This will allow developers to focus on building their core app features without having to worry about the underlying infrastructure.
+
+# Benefits upon completion
+
+- Reduced development time and cost: Oasys will eliminate the need for developers to spend time and resources integrating and managing the various components required for LLM applications. This can lead to significant time and cost savings.
+- Increased productivity: Oasys will provide developers with a single, easy-to-use platform for developing and deploying LLM applications. This can help developers to be more productive and focus on building their core app features.
+- Improved performance and scalability: Oasys will be designed to optimize the performance and scalability of LLM applications. This can help developers to deliver better user experiences and support larger workloads.
